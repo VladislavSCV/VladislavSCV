@@ -8,10 +8,11 @@ Rewards = {
 }
 
 stack = {
-- Python (Django, fastapi, sklearn),
-- Java (Begginer),
+- Python (Junior),
+- Java (Junior),
 - C++(Begginer),
+- GO(Junior)
 - SQL/NOSQL (Postgresql, Sqlite, Microsoft sql, MongoDB),
-- Git, GitHub (Begginer)
+- Git, GitHub
 - English language
   }
