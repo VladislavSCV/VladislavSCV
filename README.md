@@ -8,11 +8,12 @@ Rewards = {
 }
 
 stack = {
-- Python (Junior),
-- Java (Junior),
-- C++(Begginer),
-- GO(Junior)
-- SQL/NOSQL (Postgresql, Sqlite, Microsoft sql, MongoDB),
+- Python (ML)
+- Java (Android Dev)
+- JavaScript (Web Dev)
+- Go (Web Dev)
+- SQL/NOSQL (Postgresql, Sqlite, Microsoft sql, MongoDB)
 - Git, GitHub
 - English language
+- Docker
   }
