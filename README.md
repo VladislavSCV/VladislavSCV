@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Vladislav Scvortsov!
-- 👀 I’m interested in programming(Full-stack dev, machine learning) and sport!
-- 💞️ I’m looking to collaborate on Yandex
+- 👀 I’m interested in (Blockchain, cyber security and ML)
 
 stack = {
 - JavaScript
