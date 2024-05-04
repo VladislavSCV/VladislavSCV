@@ -13,7 +13,7 @@
   - English Language
   - Docker
 
-- 👀 **Interests:** Blockchain, Backend Development and Machine Learning
+- 👀 **Interests:** Blockchain, Backend Development and Neural Networks
 
 ### Get in Touch
 
