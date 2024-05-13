@@ -12,6 +12,7 @@
   - Git, GitHub
   - English Language
   - Docker
+  - K8S
 
 - 👀 **Interests:** Blockchain, Backend Development and Neural Networks
 
