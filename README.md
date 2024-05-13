@@ -7,12 +7,15 @@
 - 💻 **Skills:**
   - Go
   - Solidity
-  - Java
+  - http REST
   - SQL (PostgreSQL, MS SQL Server)
   - Git, GitHub
   - English Language
   - Docker
   - K8S
+  - Unit Tests
+  - Kafka
+  - Linux
 
 - 👀 **Interests:** Blockchain, Backend Development and Neural Networks
 
