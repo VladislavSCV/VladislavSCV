@@ -5,9 +5,9 @@
 ### Skills & Interests
 
 - 💻 **Skills:**
-  - JAVA
-  - Solidity
   - Go
+  - Solidity
+  - Java
   - SQL (PostgreSQL, MS SQL Server)
   - Git, GitHub
   - English Language
