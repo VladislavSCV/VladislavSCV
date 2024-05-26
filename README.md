@@ -11,6 +11,7 @@
 - **Programming Languages:** 
   - Go 
   - Solidity
+  - Java
 - **Web Services:** 
   - REST 
   - gRPC
