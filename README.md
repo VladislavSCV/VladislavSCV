@@ -20,14 +20,11 @@
 - **Version Control:** 
   - Git 
   - GitHub 
-  - GitLab
 - **Containerization:** 
   - Docker 
   - Kubernetes (K8S)
 - **Testing:** 
   - Unit Tests
-- **Messaging Systems:** 
-  - Kafka
 - **Operating Systems:** 
   - Linux
 
