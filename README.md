@@ -20,10 +20,9 @@
   - NoSQL (MongoDB)
 - **Version Control:** 
   - Git 
-  - GitHub 
+  - GitHub
 - **Containerization:** 
   - Docker 
-  - Kubernetes (K8S)
 - **Testing:** 
   - Unit Tests
 - **Operating Systems:** 
