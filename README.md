@@ -4,6 +4,8 @@
 
 ---
 
+![Codewars](https://www.codewars.com/users/VladislavSCV/badges/large)
+
 ### 🛠️ Skills & Interests
 
 #### 💻 **Skills:**
