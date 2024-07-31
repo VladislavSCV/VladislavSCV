@@ -19,7 +19,7 @@
   - gRPC
 - **Databases:** 
   - SQL (PostgreSQL, MS SQL Server)
-  - NoSQL (MongoDB)
+  - NoSQL (Redis)
 - **Version Control:** 
   - Git 
   - GitHub
