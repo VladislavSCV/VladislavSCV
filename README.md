@@ -52,7 +52,7 @@
 
 ### 🚀 Check Out My Projects
 
-- **Explore my [GitHub repositories](https://github.com/yourusername)** for projects related to Blockchain, cybersecurity, and more!
+- **Explore my [GitHub repositories](https://github.com/VladislavSCV?tab=repositories)** for projects related to Blockchain, cybersecurity, and more!
 
 ---
 
