@@ -23,6 +23,8 @@
 - **Version Control:** 
   - Git 
   - GitHub
+- **Messages Broker**
+  - Kafka
 - **Containerization:** 
   - Docker 
 - **Testing:** 
