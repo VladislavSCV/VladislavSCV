@@ -35,7 +35,6 @@
 #### 👀 **Interests:**
 - Blockchain
 - Backend Development
-- Neural Networks
 
 ---
 
