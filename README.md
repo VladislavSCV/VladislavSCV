@@ -11,7 +11,9 @@
 #### 💻 **Skills:**
 
 - **Programming Languages:** 
-  - Go 
+  - Go
+  - Python
+  - Bash
 - **Web Services:** 
   - REST 
   - gRPC
