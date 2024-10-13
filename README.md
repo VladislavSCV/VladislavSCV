@@ -12,7 +12,6 @@
 
 - **Programming Languages:** 
   - Go 
-  - Python
 - **Web Services:** 
   - REST 
   - gRPC
